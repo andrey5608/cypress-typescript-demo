@@ -1,0 +1,25 @@
+{
+  "name": "cypress-typescript-mocha",
+  "version": "1.0.0",
+  "description": "It's a demo project to play with Cypress on TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrey5608/cypress-typescript-mocha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrey5608/cypress-typescript-mocha/issues"
+  },
+  "homepage": "https://github.com/andrey5608/cypress-typescript-mocha#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "cypress": "^9.5.4"
+  }
+}
